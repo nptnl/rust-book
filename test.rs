@@ -1,14 +1,9 @@
-enum Person {
-    man,
-    woman,
-}
-
 fn main() {
-    prinln!("free ebgirrrdddd dyea");
-
+    sus();
 }
-
-struct Comp {
-    real: f64,
-    imag: f64,
+fn sus() {
+    let cou: u32 = 23876;
+    if let 23876 = cou {
+        println!("{}",cou)
+    }
 }
