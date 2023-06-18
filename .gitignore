@@ -1,6 +1,3 @@
-/fibonacci/target
-/guesser/target
-/henlo_cargo/target
-/ownership/target
-/structs/target
+*/target
 .DS_Store
+*/.DS_Store
